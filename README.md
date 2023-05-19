@@ -1,0 +1,1 @@
+This project will create a landing page of a website with multiple different sections to it including but not limited to a header, main body of content, and a footer. I will be using flex-box in order to help design and organise the website to make it look as per certain specifications. 
